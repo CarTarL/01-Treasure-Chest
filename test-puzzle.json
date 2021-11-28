@@ -1,7 +1,7 @@
 {
   "name": "CTL NFT", 
   "description": "Just a test NFT for CarTarL", 
-  "image": "https:\/\/raw.githubusercontent.com\/CarTarL\/01-Treasure-Chest\/0c84c26b9b3817d4b497c3b602caed7daeeb19a4\/main\/test-puzzle.jpg", 
+  "image": "https://raw.githubusercontent.com/CarTarL/01-Treasure-Chest/blob/main/test-puzzle.jpg", 
   "properties": {
     "simple": "some text",
     "emphasis": {
