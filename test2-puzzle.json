@@ -1,0 +1,15 @@
+{
+  "name": "CTL NFT", 
+  "description": "Just a test NFT for CarTarL", 
+  "image": "https:\/\/raw.githubusercontent.com\/CarTarL\/01-Treasure-Chest\/main\/test2-puzzle.jpg", 
+  "properties": {
+    "Simple": "some text",
+    "Emphasis": {
+      "name": "Emphasis",
+      "css": {
+        "color": "#FF0000",
+        "text-decortation": "underline"
+      }
+    }
+  }
+}
