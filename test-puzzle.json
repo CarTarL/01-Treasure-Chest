@@ -6,7 +6,7 @@
     "simple": "some text",
     "emphasis": {
       "name": "Emphasis",
-      "class": "emphasis",
+      "class": "emphasis"
     }
   }
 }
