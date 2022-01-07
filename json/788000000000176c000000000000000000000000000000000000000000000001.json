@@ -1,9 +1,0 @@
-{
-  "name": "CarTarL NFT", 
-  "description": "Just a test NFT for CarTarL", 
-  "image": "https:\/\/raw.githubusercontent.com\/CarTarL\/01-Treasure-Chest\/v1\/test-puzzle.jpg", 
-  "properties": {
-    "Simple": "some text",
-    "Foo": "bar"
-  }
-}

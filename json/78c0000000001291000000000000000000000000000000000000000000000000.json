@@ -1,0 +1,10 @@
+{
+  "name": "Treasure Chest Game",
+  "description": "An NFT based game with multiple puzzles leading to a 0.5 ETH prize.  First to solve wins.\n\nThe game is accessible with this NFT or any Age of Rust NFT.\n\nSee website for full details and follow on twitter for game updates",
+  "image": "https://raw.githubusercontent.com/CarTarL/01-Treasure-Chest/main/puzzle.gif",
+  "properties": {
+    "Start": "01-07-2021 Noon ET",
+    "Twitter": "cartar_l",
+    "Website": "www.cartarl.com"
+  }
+}
